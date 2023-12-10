@@ -1,0 +1,45 @@
+#######################################
+# MCM_BL0940
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Salesforce	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+buildCallRequest	KEYWORD2
+processResponse		KEYWORD2
+requestToken		KEYWORD2
+Salesforce		KEYWORD2
+setUp			KEYWORD2
+setUp			KEYWORD2
+setAPIVersion		KEYWORD2
+httpCall		KEYWORD2
+getResponseCode		KEYWORD2
+createData		KEYWORD2
+readData		KEYWORD2
+updateData		KEYWORD2
+deleteData		KEYWORD2
+queryData		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+_instanceName	LITERAL1
+_clientId	LITERAL1
+_clientSecret	LITERAL1
+_userName	LITERAL1
+_password	LITERAL1
+_accessToken 	LITERAL1
+_salesforceHost LITERAL1
+_responseBody 	LITERAL1
+_isProd		LITERAL1
+_control401	LITERAL1
+_apiVersion	LITERAL1
+_responseCode	LITERAL1
