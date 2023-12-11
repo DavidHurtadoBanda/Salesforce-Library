@@ -1,0 +1,20 @@
+{
+    "name": "Salesforce-Library",
+    "keywords": "Salesforce, HTTP, API",
+    "description": "A library to facilitate calls between Arduino and Salesforce",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DavidHurtadoBanda/Salesforce-Library"
+    },
+    "version": "1.0.0",
+    "exclude": "tests",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "atmelavr",
+        "espressif8266",
+        "espressif32",
+        "atmelsam",
+        "ststm32"
+    ]
+}
